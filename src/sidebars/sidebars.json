@@ -33,5 +33,13 @@
       "blog/first-blog",
       "blog/second-blog"
     ]
+  },
+  {
+    "entry": "Projects",
+    "name": "Projects",
+    "items": [
+      "projects/fuzz/fuzz",
+      "projects/ballworld/ballworld"
+    ]
   }
 ]
