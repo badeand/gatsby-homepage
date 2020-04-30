@@ -41,5 +41,12 @@
       "projects/fuzz/fuzz",
       "projects/ballworld/ballworld"
     ]
+  },
+  {
+    "entry": "AboutMe",
+    "name": "AboutMe",
+    "items": [
+      "aboutme/aboutme"
+    ]
   }
 ]
