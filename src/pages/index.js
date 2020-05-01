@@ -17,6 +17,9 @@ const IndexPage = () => {
           <Link to="/projects/list">
             <Button type="primary" size="large" icon="right-circle" style={{marginRight: 10}}>Projects</Button>
           </Link>
+          <Link to="/aboutme/aboutme">
+            <Button type="primary" size="large" icon="right-circle" style={{marginRight: 10}}>About me</Button>
+          </Link>
         </div>
       </div>
     </Layout>
